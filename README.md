@@ -90,6 +90,4 @@ plt.show()
 ## 📜 License
 This project is open-source and available under the **MIT License**.
 
-## 📬 Contact
-If you have any questions or suggestions, feel free to connect with me on **[LinkedIn](https://linkedin.com/in/soham-das)** or via **email: mynameissoham1234@gmail.com**.
 
